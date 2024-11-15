@@ -73,7 +73,7 @@
     "ethereum-multicall": "^2.21.0",
     "ethers": "^5.5.4",
     "graphql": "^16.8.1",
-    "graphql-request": "^6.1.0",
+    "graphql-request": "^7.1.2",
     "gray-matter": "^4.0.3",
     "immer": "^9.0.15",
     "micro-memoize": "^4.1.2",
