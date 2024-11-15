@@ -437,8 +437,9 @@ export function getThemedComponents(theme: Theme) {
             style: {
               color: theme.palette.common.white,
               border: '1px solid',
+              borderRadius: '16px',
               borderColor: '#EBEBED1F',
-              backgroundColor: '#383D51',
+              backgroundColor: '#146c98',
               '&:hover, &.Mui-focusVisible': {
                 backgroundColor: theme.palette.background.header,
               },

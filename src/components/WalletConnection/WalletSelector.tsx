@@ -82,7 +82,7 @@ const WalletRow = ({ walletName, walletType }: WalletRowProps) => {
   return (
     <Button
       disabled={loading}
-      variant="outlined"
+      variant="surface"
       sx={{
         display: 'flex',
         flexDirection: 'row',
@@ -216,7 +216,7 @@ export const WalletSelector = () => {
         />
         <Button
           type="submit"
-          variant="outlined"
+          variant="surface"
           sx={{
             display: 'flex',
             flexDirection: 'row',
