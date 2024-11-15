@@ -100,6 +100,9 @@ export function AppFooter() {
         alignItems: 'center',
         gap: '22px',
         flexDirection: ['column', 'column', 'row'],
+        bgcolor: 'background.primary',
+        borderTop: '1px solid',
+        borderColor: 'divider',
         boxShadow:
           theme.palette.mode === 'light'
             ? 'inset 0px 1px 0px rgba(0, 0, 0, 0.04)'
